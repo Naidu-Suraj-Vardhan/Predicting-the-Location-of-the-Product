@@ -1,6 +1,7 @@
 # Predicting-the-Location-of-the-Product
 
 This is a Machine Learning Event called ```Data Analyzer Tz'21``` hosted by ```RGUKT,Nuzvid``` in a TechFest called ```Teckzite``` in ```kaggle```.
+Click this [link](https://www.kaggle.com/c/data-analyzer-tz21/overview) to navigate to competition page.
 ## About the Data
 This is a practical business case where you have to identify proper data for the products described in the below dataset. And build a model which can identify correct label associated with the description. You will have 24 unique labels mentioned by column "Primary Site Code" that are to be predicted.
 Data description
